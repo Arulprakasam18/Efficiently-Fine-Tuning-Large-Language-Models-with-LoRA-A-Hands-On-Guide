@@ -65,7 +65,7 @@ pip3 install jupyter
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/tsmatz/finetune_llm_with_lora
+git clone https://github.com/Arulprakasam18/Efficiently-Fine-Tuning-Large-Language-Models-with-LoRA-A-Hands-On-Guide.git
 ```
 
 ### Run Jupyter Notebook
